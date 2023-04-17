@@ -1,8 +1,8 @@
 ---
 title: "Сбор и аналитическая обработка информации о сетевом трафике"
 format: md
-author: "Yakovlev Alex"
-date: "09.04.2023"
+author: "Elizaveta Rozantseva"
+date: "17.04.2023"
 editor: visual
 ---
 
@@ -40,7 +40,7 @@ editor: visual
 
     <div>
 
-        ![alt text](https://github.com/Marshallmeow/protectsystem/blob/main/lab%202/image.png)
+       
 
     </div>
 
@@ -81,7 +81,7 @@ editor: visual
 5.  Число вхождений DNS в список нежелательного трафика: 624.
     Процент нежелательного трафика: 17.9%.
     
-    ![alt text](https://github.com/Marshallmeow/protectsystem/blob/main/lab%202/image2.png)
+    
 
 ## Вывод
 
